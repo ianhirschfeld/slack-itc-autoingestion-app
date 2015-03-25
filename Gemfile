@@ -10,6 +10,7 @@ gem 'pg'
 gem 'uglifier'
 gem 'unicorn'
 gem 'sass-rails'
+gem 'slack_itc_autoingestion'
 
 group :production do
   gem 'newrelic_rpm'
