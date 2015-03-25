@@ -1,5 +1,5 @@
 {
-  "name": "Slack iTunes Connect Autoingestion",
+  "name": "Slack + iTunes Connect",
   "description": "Ready-to-go app for running slack_itc_autoingestion gem.",
   "repository": "https://github.com/thesoapcollective/slack_itc_autoingestion-app",
   "keywords": ["slack", "itunes connect", "autoingestion", "app store"],
