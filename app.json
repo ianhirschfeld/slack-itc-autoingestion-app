@@ -1,0 +1,13 @@
+{
+  "name": "Slack iTunes Connect Autoingestion",
+  "description": "Ready-to-go app for running slack_itc_autoingestion gem.",
+  "repository": "https://github.com/thesoapcollective/slack_itc_autoingestion-app",
+  "keywords": ["slack", "itunes connect", "autoingestion", "app store"],
+  "env": {
+    "ITUNES_CONNECT_USERNAME": true,
+    "ITUNES_CONNECT_PASSWORD": true,
+    "ITUNES_CONNECT_VENDOR_ID": true,
+    "SLACK_TOKEN": true,
+    "SLACK_WEBHOOK_URL": true
+  }
+}
